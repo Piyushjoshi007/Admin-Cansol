@@ -1,0 +1,20 @@
+.button{
+    margin-top: 100px;
+}
+
+.date{
+    margin : 200px;
+}
+
+.booked{
+    text-decoration: line-through;
+    font-size: 20px;
+    display: inline;
+}
+
+.open{
+    font-size: 40px;
+    display: inline;
+    color: red;
+
+}
